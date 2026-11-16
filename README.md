@@ -66,4 +66,4 @@ Creative Technology · Applied AI · Generative AI · Media Technology · AI Pro
 
 I am interested in collaborating with teams building useful AI products and exploring new applications of technology in creative industries.
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/raverer)
+[GitHub](https://github.com/raverer)
