@@ -1,97 +1,69 @@
-Hi there, I'm Rajib (aka @raverer) 👋  
-🎯 AI Developer | Streamlit Creator | GenAI Engineer | Open Source Contributor
+# Rajib Rawal
+### Creative Technologist | AI Applications | Media & Creative Production
 
-I love building interactive AI apps that blend creativity, language, and intelligence.  
-Currently exploring **Generative AI**, **LLM orchestration**, **NLP**, and **advanced AI-driven interfaces**.
+I am a media and creative production professional exploring the intersection of Artificial Intelligence, storytelling and technology.
 
----
+With experience in film production, advertising, creative development and media communication, I am now building practical AI-powered applications that address real-world problems.
+
+My focus is on combining creative problem-solving with Python, Streamlit, Large Language Models and applied AI.
 
 ## 🚀 Featured Projects
 
-### 🔹 🎬 **AI Screenwriting Studio — Powered by Groq**
-A complete end-to-end **AI screenplay generator**, capable of writing:
-- Short films  
-- Viral 30–90s social media scripts  
-- Scene-by-scene expansions  
-- Full screenplay from **FADE IN → FADE OUT**  
-- AI Script Doctoring (dialogue, pacing, character arcs)
+### 🎬 Screenwriter Studio
+An AI-assisted screenwriting and story development application designed to explore structured storytelling and screenplay development workflows.
 
-**What I built & learned:**
-- Structured multi-part LLM workflows  
-- Clean cinematic screenplay formatting  
-- Script parsing, continuation logic & beat-based storytelling  
-- Building a professional UX using Streamlit  
-- Using **Groq LLaMA3-8B + LLaMA3-70B** for ultra-fast inference  
-- Prompt engineering for long-form consistency  
-- Secure cloud deployment on Streamlit Cloud  
-- DOCX & PDF export pipelines  
-- Local project saving system & chat interface
+**Areas:** Generative AI · LLM Applications · Creative Technology
 
-**Tech Stack:**  
-`Python`, `Streamlit`, `Groq API`, `LLaMA3`, `python-docx`, `reportlab`
+[Explore the repository](https://github.com/raverer/Screenwriter-Studio)
 
----
+### 🌍 German Tutor
+An AI-assisted language-learning application combining translation and text-processing capabilities with OCR and speech technologies.
 
-### 🔹 MovieFilters 🎬
-A Streamlit app that creates LUTs (.cube files) for filmmakers and colorists using AI-powered image style transfer.  
-**Tech:** Python, OpenCV, NumPy, Streamlit
+**Areas:** NLP · Machine Translation · OCR · Speech Technology
 
----
+[Explore the repository](https://github.com/raverer/German-Tutor)
 
-### 🔹 German-Tutor 🇩🇪
-An AI language tutor enabling real-time translation, OCR, and text-to-speech learning.  
-**Tech:** Hugging Face Transformers, Streamlit, gTTS, OpenAI API
+### ✍️ Wholebite AI Agency
+An AI-powered copywriting application exploring content generation for health-industry brands across social media platforms.
 
----
+**Areas:** AI Content Generation · Marketing Technology · LLM Applications
 
-## 🧠 What I’m Learning / Recently Built
-- High-performance LLM generation with **Groq**  
-- Multi-stage prompt orchestration (outline → script → revision)  
-- UX for AI creative tools  
-- Long-form reasoning tuning & consistency  
-- Cloud-friendly AI architectures  
-- Streaming vs non-streaming LLM generation  
-- AI-driven screenplay structures & storytelling patterns  
-- Safe + efficient context management for LLM chats
+[Explore the repository](https://github.com/raverer/wholebite-ai-agency)
 
----
+## 🛠️ Technologies & Tools
 
-## 🧰 Tech Stack
+**Programming & Application Development**
+- Python
+- Streamlit
+- Git & GitHub
 
-**Languages**  
-- Python  
-- JavaScript
+**AI & Machine Learning**
+- Large Language Models
+- Hugging Face Transformers
+- Groq API
+- Ollama
+- NLP and machine translation
+- OCR and speech processing
 
-**Frameworks & Tools**  
-- Streamlit  
-- FastAPI  
-- Gradio  
-- Git  
-- VS Code  
-- Google Colab
+## 🎬 Professional Background
 
-**AI / ML**  
-- Groq LLaMA 3  
-- Hugging Face Transformers  
-- OpenAI API  
-- LangChain  
-- Computer Vision (OpenCV)  
-- TTS/OCR/NLP utilities
+- Associate Producer – Creative & Production
+- Former Assistant Director / Director's Assistant
+- MSc in Media and Communication Studies
+- Experience in film, advertising, storytelling and creative production
 
----
+## 🔭 Currently Learning
 
-## 🤝 Open Source Goals
-I’m looking to contribute to projects involving:
+- Applied Machine Learning
+- LLM application development
+- Retrieval-Augmented Generation (RAG)
+- AI automation and workflow integration
+- Software development and application architecture
 
-- 🤖 Generative AI & multimodal models  
-- 🧠 NLP & translation systems  
-- 🎨 Creative AI applications  
-- 🧩 Streamlit / Gradio integrations  
+## 🤝 Areas of Interest
 
-If you have interesting open issues or need help with a GenAI project, feel free to reach out!
+Creative Technology · Applied AI · Generative AI · Media Technology · AI Products · Advertising Technology
 
----
+I am interested in collaborating with teams building useful AI products and exploring new applications of technology in creative industries.
 
-## 📫 Contact
-- GitHub: **@raverer**  
-- Open to collaborations on AI, creative tech, and tool-building!
+[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/raverer)
