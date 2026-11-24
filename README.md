@@ -6,7 +6,6 @@ I am a creative production professional working at the intersection of **storyte
 
 My background includes assistant direction and production work in film, followed by associate producer responsibilities across creative and production workflows. Alongside that work, I have been building practical AI-powered applications to explore how language models and open-source tools can support creative, communication and content workflows.
 
-I am interested in roles where creative judgement, production experience and emerging AI tools meet.
 
 ## Featured Projects
 
@@ -77,16 +76,6 @@ My production experience informs the way I approach AI applications: start with 
 
 I am continuing to develop my skills in Python, applied machine learning, LLM application development, AI workflows and software architecture through hands-on projects.
 
-## Roles & Collaboration
-
-I am interested in opportunities across:
-
-- Creative Technologist and AI-assisted creative production
-- Generative AI content production and content operations
-- Creative Producer / Associate Producer roles in technology, media and advertising
-- AI application and product-workflow support roles
-
-I am especially interested in teams using AI to improve creative and production workflows while keeping people in control of quality and decisions.
 
 ---
 
