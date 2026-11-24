@@ -1,69 +1,93 @@
 # Rajib Rawal
-### Creative Technologist | AI Applications | Media & Creative Production
 
-I am a media and creative production professional exploring the intersection of Artificial Intelligence, storytelling and technology.
+### Creative Production | Applied AI | Creative Technology
 
-With experience in film production, advertising, creative development and media communication, I am now building practical AI-powered applications that address real-world problems.
+I am a creative production professional working at the intersection of **storytelling, media, advertising and applied AI**.
 
-My focus is on combining creative problem-solving with Python, Streamlit, Large Language Models and applied AI.
+My background includes assistant direction and production work in film, followed by associate producer responsibilities across creative and production workflows. Alongside that work, I have been building practical AI-powered applications to explore how language models and open-source tools can support creative, communication and content workflows.
 
-## 🚀 Featured Projects
+I am interested in roles where creative judgement, production experience and emerging AI tools meet.
 
-### 🎬 Screenwriter Studio
-An AI-assisted screenwriting and story development application designed to explore structured storytelling and screenplay development workflows.
+## Featured Projects
 
-**Areas:** Generative AI · LLM Applications · Creative Technology
+### [Screenwriter Studio](https://github.com/raverer/Screenwriter-Studio)
+A local-first, AI-assisted screenwriting workspace built with Python, Streamlit, SQLite and Ollama.
 
-[Explore the repository](https://github.com/raverer/Screenwriter-Studio)
+- Story architecture and narrative framework recommendations.
+- Scene planning with review and approval before screenplay generation.
+- Story Bible and continuity support.
+- Research Library using retrieval-augmented generation (RAG).
+- Screenplay drafting, revision and export workflows.
 
-### 🌍 German Tutor
-An AI-assisted language-learning application combining translation and text-processing capabilities with OCR and speech technologies.
+**Focus:** Applied LLMs · RAG · Creative Technology · Python · Streamlit
 
-**Areas:** NLP · Machine Translation · OCR · Speech Technology
+### [WholeBite AI Agency](https://github.com/raverer/wholebite-ai-agency)
+A multi-agent social media strategy and content-generation workflow designed as an assistant for agency teams.
 
-[Explore the repository](https://github.com/raverer/German-Tutor)
+- Trend-informed content planning.
+- Audience and content strategy inputs.
+- Hook and content generation.
+- Instagram and LinkedIn output workflows.
+- FastAPI backend with locally hosted Ollama models.
 
-### ✍️ Wholebite AI Agency
-An AI-powered copywriting application exploring content generation for health-industry brands across social media platforms.
+**Focus:** AI Content Operations · Multi-Agent Workflows · FastAPI · Ollama
 
-**Areas:** AI Content Generation · Marketing Technology · LLM Applications
+### [German Tutor](https://github.com/raverer/German-Tutor)
+An academic multilingual language-processing prototype combining translation, audio transcription, OCR and text-to-speech.
 
-[Explore the repository](https://github.com/raverer/wholebite-ai-agency)
+- Text translation across German, English and Nepali workflows.
+- Audio transcription using Whisper.
+- Image text extraction using EasyOCR.
+- Translation and speech-output workflows in a Streamlit interface.
 
-## 🛠️ Technologies & Tools
+**Focus:** NLP · Machine Translation · Speech Processing · OCR · Streamlit
 
-**Programming & Application Development**
+## Skills & Tools
+
+**Application Development**
 - Python
 - Streamlit
-- Git & GitHub
+- FastAPI
+- SQLite
+- Git and GitHub
 
-**AI & Machine Learning**
-- Large Language Models
+**Applied AI**
+- Large language model applications
+- Ollama and local model workflows
 - Hugging Face Transformers
-- Groq API
-- Ollama
+- Retrieval-augmented generation (RAG)
 - NLP and machine translation
-- OCR and speech processing
+- OCR and speech-processing workflows
 
-## 🎬 Professional Background
+**Creative & Production**
+- Creative development and storytelling
+- Film and advertising production
+- Content planning and creative coordination
+- Screenwriting and narrative development
 
-- Associate Producer – Creative & Production
-- Former Assistant Director / Director's Assistant
-- MSc in Media and Communication Studies
-- Experience in film, advertising, storytelling and creative production
+## Professional Background
 
-## 🔭 Currently Learning
+- **Associate Producer — Creative & Production**
+- Former **Assistant Director / Director's Assistant** in film production
+- **MSc, Media and Communication Studies**
 
-- Applied Machine Learning
-- LLM application development
-- Retrieval-Augmented Generation (RAG)
-- AI automation and workflow integration
-- Software development and application architecture
+My production experience informs the way I approach AI applications: start with a real workflow, understand the people using it, prototype a practical solution, and keep creative review and human judgement in the loop.
 
-## 🤝 Areas of Interest
+## Current Learning
 
-Creative Technology · Applied AI · Generative AI · Media Technology · AI Products · Advertising Technology
+I am continuing to develop my skills in Python, applied machine learning, LLM application development, AI workflows and software architecture through hands-on projects.
 
-I am interested in collaborating with teams building useful AI products and exploring new applications of technology in creative industries.
+## Roles & Collaboration
 
-[GitHub](https://github.com/raverer)
+I am interested in opportunities across:
+
+- Creative Technologist and AI-assisted creative production
+- Generative AI content production and content operations
+- Creative Producer / Associate Producer roles in technology, media and advertising
+- AI application and product-workflow support roles
+
+I am especially interested in teams using AI to improve creative and production workflows while keeping people in control of quality and decisions.
+
+---
+
+[GitHub repositories](https://github.com/raverer)
